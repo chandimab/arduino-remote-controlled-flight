@@ -1,5 +1,6 @@
 /* Receiver ver1.0
 Chandima B Samarasinghe
+http://about.me/chandima.b.samarasinghe
 working// led for A4 attached
 */
 #include <SPI.h> //to handle the communication interface with the modem
