@@ -1,5 +1,9 @@
 /* Transmitter ver1.0
 Chandima B Samarasinghe
+http://about.me/chandima.b.samarasinghe
+
+
+
 fine calibrated , main wings angle increased , upperwing angle increased
 4 potentometers included
   LeftUp(brown)18             RightUp(orange)20
